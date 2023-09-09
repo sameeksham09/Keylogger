@@ -1,0 +1,125 @@
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.shift_r: <161>> Pressed.
+
+
+now how to run the above code in java
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+visual studio
+<Key.up: <38>> Pressed.
+<Key.up: <38>> Pressed.
+<Key.up: <38>> Pressed.
+<Key.up: <38>> Pressed.
+<Key.up: <38>> Pressed.
+<Key.up: <38>> Pressed.
+<Key.up: <38>> Pressed.
+<Key.up: <38>> Pressed.
+<Key.up: <38>> Pressed.
+<Key.up: <38>> Pressed.
+<Key.up: <38>> Pressed.
+<Key.up: <38>> Pressed.
+<Key.up: <38>> Pressed.
+<Key.up: <38>> Pressed.
+<Key.up: <38>> Pressed.
+<Key.up: <38>> Pressed.
+<Key.up: <38>> Pressed.
+<Key.up: <38>> Pressed.
+<Key.up: <38>> Pressed.
+<Key.up: <38>> Pressed.
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+java program for hello world
+
+notehello
+sameeksha
+<Key.esc: <27>> Pressed.
+java program of r
+Backspace Pressed
+arrays
+note
+hello worl
+
+Backspace Pressed
+d
+sameeksha
+passcode
+<Key.esc: <27>> Pressed.
+note
+
+
+hello
+worl
+sameeksha
+passcode
+
+
+<Key.esc: <27>> Pressed.
+note
+
+
+hello
+world
+sameeksha
+passcof
+Backspace Pressed
+de
+1
+
+2
+3
+
+45
+<Key.esc: <27>> Pressed.
+okay
+<Key.esc: <27>> Pressed.
+<Key.esc: <27>> Pressed.
